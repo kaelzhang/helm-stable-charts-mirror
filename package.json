@@ -6,7 +6,9 @@
   "main": "src/index.js",
   "scripts": {
     "lint": "eslint .",
-    "update": "NODE_DEBUG=helm-charts node downloader/run.js"
+    "index": "cp README.md docs/README.md",
+    "update": "NODE_DEBUG=helm-charts node downloader/run.js",
+    "build": "npm run index && npm run update"
   },
   "files": [
     "src/"
