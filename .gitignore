@@ -1,5 +1,8 @@
 # babel dist
 /lib
+*.tgz
+!/*.tgz
+.download
 
 # Numerous always-ignore extensions
 *.bak
@@ -22,7 +25,6 @@ nohup.out
 .nyc_output
 coverage.lcov
 package-lock.json
-*.tgz
 
 # OS or Editor folders
 .DS_Store

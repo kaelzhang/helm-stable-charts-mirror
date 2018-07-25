@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/kaelzhang/helm-stable-charts-mirror.svg?branch=master)](https://travis-ci.org/kaelzhang/helm-stable-charts-mirror)
-[![Coverage](https://codecov.io/gh/kaelzhang/helm-stable-charts-mirror/branch/master/graph/badge.svg)](https://codecov.io/gh/kaelzhang/helm-stable-charts-mirror)
+<!-- [![Build Status](https://travis-ci.org/kaelzhang/helm-stable-charts-mirror.svg?branch=master)](https://travis-ci.org/kaelzhang/helm-stable-charts-mirror) -->
+<!-- [![Coverage](https://codecov.io/gh/kaelzhang/helm-stable-charts-mirror/branch/master/graph/badge.svg)](https://codecov.io/gh/kaelzhang/helm-stable-charts-mirror) -->
 <!-- optional appveyor tst
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/kaelzhang/helm-stable-charts-mirror?branch=master&svg=true)](https://ci.appveyor.com/project/kaelzhang/helm-stable-charts-mirror)
 -->
@@ -15,7 +15,7 @@
 
 # helm-stable-charts-mirror
 
-<!-- description -->
+The mirror of helm stable charts, the drop-in replacement of https://kubernetes-charts.storage.googleapis.com
 
 ## Install
 
