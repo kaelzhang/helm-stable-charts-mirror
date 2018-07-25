@@ -14,7 +14,7 @@ const TEMP_DIR = path.join(ROOT, '.download')
 const TYPES = {
   stable: {
     prefix: 'https://kubernetes-charts.storage.googleapis.com/',
-    ostai: 'https://charts.ost.ai/stable/',
+    ostai: 'https://charts.ost.ai/',
     root: path.join(ROOT, 'docs')
   }
 }
