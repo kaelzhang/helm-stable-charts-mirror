@@ -15,7 +15,7 @@ const TYPES = {
   stable: {
     prefix: 'https://kubernetes-charts.storage.googleapis.com/',
     ostai: 'https://charts.ost.ai/stable/',
-    root: ROOT
+    root: path.join(ROOT, 'docs')
   }
 }
 const MAX_POOL_SIZE = 10
