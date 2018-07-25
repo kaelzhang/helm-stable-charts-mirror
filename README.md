@@ -13,20 +13,14 @@
 [![Dependency Status](https://david-dm.org/kaelzhang/helm-stable-charts-mirror.svg)](https://david-dm.org/kaelzhang/helm-stable-charts-mirror)
 -->
 
-# helm-stable-charts-mirror
+# The Mirror of Helm Stable Charts
 
-The mirror of helm stable charts, the drop-in replacement of https://kubernetes-charts.storage.googleapis.com
-
-## Install
-
-```sh
-$ npm install helm-stable-charts-mirror
-```
+The mirror of helm stable charts, the drop-in replacement of [https://kubernetes-charts.storage.googleapis.com](https://kubernetes-charts.storage.googleapis.com)
 
 ## Usage
 
-```js
-import helm_stable_charts_mirror from 'helm-stable-charts-mirror'
+```sh
+helm repo add stable https://charts.ost.ai
 ```
 
 ## License
