@@ -52,6 +52,9 @@ cd helm-stable-charts-mirror
 # Install dependencies
 npm install
 
+# Before the following step you may need to changes the values inside
+#   downloader/run.js
+
 # Updates repo index
 npm run update
 
