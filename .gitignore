@@ -1,7 +1,5 @@
 # babel dist
 /lib
-*.tgz
-!/*.tgz
 .download
 
 # Numerous always-ignore extensions
